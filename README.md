@@ -2,17 +2,20 @@
  
  Exercise made to improve programming foundations with python.
 
-## How to run
+## How to run the code
 
-Download or clone this project
+1. Download or clone the project
 
-Navigate to the project directory and execute the following command:
+2. Navigate to the project directory
 
+3. Execute the following command:
 ```bash
 python entertainment_center.py
 ```
 
-Your browser will launch the movie trailer website
+4. Your browser will launch the website
+
+5. Enjoy the trailers of my favorite movies!
 
 ## Screenshot
 ![Video trailer](https://raw.githubusercontent.com/saurer19/Python-MovieTrailer-Website/master/content/Trailer.PNG)
