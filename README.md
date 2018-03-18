@@ -15,5 +15,5 @@ python entertainment_center.py
 Your browser will lauch the movie trailer website
 
 ## Screenshot
-![Video trailer]()
-![Home]()
+![Video trailer](https://raw.githubusercontent.com/saurer19/Python-MovieTrailer-Website/master/content/Trailer.PNG)
+![Home](https://raw.githubusercontent.com/saurer19/Python-MovieTrailer-Website/master/content/Home.PNG)
