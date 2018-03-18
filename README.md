@@ -6,13 +6,13 @@
 
 Download or clone this project
 
-Navigate to the project directoy and execute the following command:
+Navigate to the project directory and execute the following command:
 
 ```bash
 python entertainment_center.py
 ```
 
-Your browser will lauch the movie trailer website
+Your browser will launch the movie trailer website
 
 ## Screenshot
 ![Video trailer](https://raw.githubusercontent.com/saurer19/Python-MovieTrailer-Website/master/content/Trailer.PNG)
